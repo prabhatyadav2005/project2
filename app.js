@@ -1,3 +1,1 @@
-function name(){
-    console.log("print the name of the student:");
-}
+//add new feature - button
